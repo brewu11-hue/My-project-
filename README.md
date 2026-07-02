@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Link to the app: https://my-project-pi-eight-93.vercel.app/
 
-# Run and deploy your AI Studio app
+Khula - Financial Literacy Mobile AppKhula is a mobile-focused financial literacy application designed to empower users with essential budgeting, saving, and financial management skills. Built as a portfolio project, this application leverages Google AI for personalized financial insights and features a robust Node.js backend tailored for mobile performance.
 
-This contains everything you need to run your app locally.
+🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/c0fb97f5-49e4-4adf-95b2-a4567ecd95bd
+Google AI Integration: Delivers personalized financial guidance and smart budgeting recommendations.Mobile-Optimized Backend: Powered by Node.js for low-latency API responses on mobile networks.
+Interactive Learning: Engaging modules designed to simplify complex financial concepts.
+Portfolio Ready: Developed with clean code architecture and production-ready best practices.
 
-## Run Locally
+🛠️ Tech StackFrontend: Mobile-first architecture (e.g., React Native / Flutter / Android Studio)Backend Framework: Node.js with ExpressAI Integration: Google AI SDK (Gemini API)Database: MongoDB / PostgreSQL (Specify your database)
 
-**Prerequisites:**  Node.js
+📋 PrerequisitesBefore running this project, ensure you have the following installed:Node.js (v18 or higher)npm or yarnGoogle AI Studio API Key
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
