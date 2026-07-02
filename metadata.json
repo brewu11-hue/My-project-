@@ -1,0 +1,6 @@
+{
+  "name": "Khula - Financial Literacy SA",
+  "description": "An educational financial literacy app for South Africans featuring lessons on credit scores, budgeting, debt management, interest calculators, and AI-powered budgeting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
